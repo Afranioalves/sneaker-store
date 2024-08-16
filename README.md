@@ -1,4 +1,5 @@
 # Sneaker Shop
+<b>FIGMA DO PROJECTO</b>: <a href="https://www.figma.com/design/3fi5hgGLVWNClu0zhtrVVY/Sneakers-App?node-id=58-5039&t=Z86KE778MzuAkBun-1">Sneaker shop</a><br /><br>
 Uma loja de shoes, onde os usuarios podem ver categorias de calçados, adicionar no carrinho e realizar pedido, para esse projcto usou-se o <b>React Native com Expo</b>. <br />
 Desafiei-me com esse projecto, para poder aprimorar as milhas abilidades em <strong>Animações em react native com expo</strong> e aprimorar o meu conhecimento em <strong>expo router</strong>
 
